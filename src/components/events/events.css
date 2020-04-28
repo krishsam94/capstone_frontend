@@ -1,0 +1,95 @@
+.eventsTitle, .actionsTitle {
+    background-color: #0039a6;
+    color: #fff;
+    border: 1px solid #0039a6;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+.eventsCont, .actionsCont {
+    width: 90%;
+    margin: 15px auto;
+    background-color: #fff;
+    border: 1px solid #efefef;
+    border-radius: 5px;
+}
+.eventsTableCont {
+    width: 95% !important;
+    margin: 15px auto;
+    overflow: scroll;
+    max-height: 485px;
+}
+.eventsTable.table {
+    color: #96999c;
+}
+.dwnldButton {
+    float: right;
+    font-size: 12px !important;
+}
+
+.dwnldButtonCont {
+    overflow: hidden;
+}
+.eventsTable.table thead th,td {
+    min-width: 146px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/*Report CSS Start*/
+.emailCont {
+    width: 85%;
+    margin: 15px auto;
+    display: flex;
+    color: #297374;
+}
+
+.emailIconCont {
+    background-color: #00acac;
+    display: inline-block;
+    width: 10%;
+    border: 1px solid #00acac;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+    text-align: center;
+    position: relative;
+}
+.emailIcon.fa {
+    color: #00acac;
+    background-color: #025656;
+    font-size: 69px;
+    height: 68px;
+    width: 57px;
+    border-radius: 9px 31px 6px 6px;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    bottom: 50%;
+    position: absolute;
+}
+.emailIcon:before{
+    position: absolute;
+    top: 0;
+    left: -1px;
+}
+.emailBodyCont {
+    background-color: #b3e6e6;
+    display: inline-block;
+    width: 90%;
+    border: 1px solid #b3e6e6;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+}
+.emailTitle {
+    font-weight: 700;
+}
+.mailInputCont {
+    width: 85% !important;
+}
+.mailInputCont .mailInput.form-control {
+    border-radius: 4px !important;
+}
+
+.mailInputCont .mailBtn.btn {
+    border-radius: 4px !important;
+}
+/*Report CSS End*/

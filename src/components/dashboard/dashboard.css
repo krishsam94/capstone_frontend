@@ -1,0 +1,37 @@
+.card {    
+    color: #fff;
+    display: inline-block !important;
+    text-align: left;
+}
+.card1{
+    background-color: #d9534f !important;
+}
+.card2{
+    background-color: #ff8f1c !important;
+}
+.card3{
+    background-color: #c800a1 !important;
+}
+.card4{
+    background-color: #53565a !important;
+}
+body{
+    background-color: #efefef !important;
+}
+.cardsCont {
+    text-align: center;
+}
+
+.viewTxt, .viewTxt:hover {
+    text-align: right;
+    color: #fff;
+    font-size: 12px;
+    background-color: rgba(7, 14, 8, 0.4);
+    display: block;
+}
+.countTxt {
+    font-size: 32px !important;
+}
+.card-subtitle {
+    font-weight: 400 !important;
+}

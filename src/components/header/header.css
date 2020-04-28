@@ -1,0 +1,12 @@
+.headerCont {
+    background-color: #0039a6 !important;
+}
+.headerTitle {
+    font-weight: 900;
+    font-family: calibri;
+    font-size: 24px !important;
+}
+
+.headerTitle span {
+    font-weight: 300;
+}

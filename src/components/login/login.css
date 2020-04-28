@@ -1,0 +1,57 @@
+.loginCont{
+    background-color: white;
+}
+.loginForm {
+    align-items: center;
+    padding-top: 7vh;
+    padding-left: 7vw;
+}
+
+.formErrors {
+    color: red;
+}
+
+.container {
+    max-width: 100% !important;
+}
+
+span.cognizantTxt {
+    font-weight: 900;
+    font-family: calibri;
+    font-size: 31px;
+    color: #4764b2;
+}
+
+span.outreachTxt {
+    font-weight: 300;
+    font-family: calibri;
+    font-size: 31px;
+    color: #66c686;
+}
+
+.feedbacktxt {
+    color: grey;
+    font-size: 12px;
+    line-height: 5px;
+}
+
+.formTitle {
+    margin-bottom: 20px;
+}
+.btn.btn-primary, .btn-primary:not(:disabled):not(.disabled):active {
+    background-color: #49c16d !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.form-control {
+    background-color: #f9f9f9 !important;
+}
+
+.regTxt {
+    font-size: 13px;
+    color: #5d5d5d;
+}
+.regTxt a {
+    color: #66c686;
+}
